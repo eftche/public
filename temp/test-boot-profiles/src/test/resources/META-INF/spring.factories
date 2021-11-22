@@ -1,0 +1,1 @@
+org.springframework.boot.env.EnvironmentPostProcessor=org.eftche.test.boot.profiles.ActiveProfilesTest$ProfilePostProcessor
